@@ -1,0 +1,6 @@
+alias ll='ls -alS'
+alias  look='less'
+alias закатати='mkdir'
+alias реструктурувати='nano'
+alias розібрати='rm'
+alias простукати='less'
